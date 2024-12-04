@@ -1,3 +1,0 @@
-In the world of technology, where data is the new currency, scalable software architecture is not just a necessity but a cornerstone of future-ready applications. 
-Harsh Yadav, a luminary in software architecture and scalable systems, has taken a significant leap in this domain with his groundbreaking work on Aware Buildings. 
-His innovative approach to handling vast amounts of data from IoT sensor devices is a masterclass in modern software architecture, offering invaluable insights and future benefits for users.
